@@ -12,7 +12,9 @@ Note:
 The Ped1_Train.csv, Ped1_Test.csv is the result generated from pretrained CNN model. If you want to integrated different CNN algorithm, you need to genereate your .CSV file.
 
 The CNN algorithm we use for feature generation:
+
 Object tracking: https://github.com/Zhongdao/Towards-Realtime-MOT
+
 Object detection and background segmentation: https://github.com/chongkewu/detectron2
 
 ## Run the demo
